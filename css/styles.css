@@ -12,10 +12,10 @@
 
 
 html,body{
-background-image: url('../assets/images/book4_edited.jpg') ;
-background-size: cover;
-background-repeat: no-repeat;
-height: 80%;
+background: url('../assets/images/book4_edited.jpg') no-repeat center center/cover;
+/* background-size: cover; */
+/* background-repeat: no-repeat; */
+height: 100vh;
 font-family: 'myFirstFont', sans-serif;
 }
 
