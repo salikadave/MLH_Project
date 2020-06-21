@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+nav {
+  background-color: #30475e !important;
+}
+
+nav .brand-logo {
+    font-weight: 700 !important;
+    padding-left: 20px !important;
+}
+
+.main-content {
+  width: 90%;
+  height: 90%;
+  margin: 1rem auto;
+  /* overflow: scroll; */
+  border: 1px solid black;
+}
+
+.main-content h4 {
+    padding: 0.5rem;
+    margin-top: 1rem !important;
+}
+
+hr {
+    margin: 0.5rem;
+    background-color: #eee !important;
+}
+
+.card {
+    margin: 1rem;
+}
+
+.card-image img {
+    width: inherit;
+    height: inherit;
+}
